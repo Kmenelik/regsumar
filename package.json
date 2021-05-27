@@ -1,0 +1,16 @@
+{
+  "name": "regsumar",
+  "version": "1.0.0",
+  "description": "Registo sumarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "EngSW2021",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
